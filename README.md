@@ -10,7 +10,7 @@ The program is written using Python. It has several packages that are automatica
 
 ## 1. Instructions for installing the package.
 
-The package can be found by the link [https://github.com/xaznk/personal\_assistant\_cli/](https://github.com/vita-olshevska/personal_assistant_cli/) .
+The package can be found by the link [https://github.com/xaznk/personal\_assistant\_cli/](https://github.com/xaznk/personal_assistant_cli/) .
 It can be installed as the Python package from the console with command &quot;pip3 install .&quot;. It starts with the command &quot;personal\_assistant\_cli&quot; .
 
 ## 2. Use and commands:
