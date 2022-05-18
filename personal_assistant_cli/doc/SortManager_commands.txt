@@ -1,0 +1,5 @@
+----------------------------------------------------------------------------------
+SearchManager command:
+
+sort <path>  - sorts all files by folders (music, videos, pictures, documents, archives, other)
+----------------------------------------------------------------------------------

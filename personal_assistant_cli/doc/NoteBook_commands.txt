@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------
+NoteBook commands:
+
+show notes - show all notes for NoteBook
+add note - add the note to the NoteBook
+add tag - add tag to an existing note
+change note - change the note for its id from the table
+delete note - delete the whole note by its id
+search note - searches for matches for notes
+filter note - searches for matches for tags
+
+Or input in 1 line for NoteBook:
+<command> <id> <some text>
+1. you haven`t  write an  id for commands: “add note”, “search note”, “filter note”;
+2. you haven't  write a text for the command “delete note”.
+e.g.  >>> add note I am happy
+      >>> delete note 4
+----------------------------------------------------------------------------------

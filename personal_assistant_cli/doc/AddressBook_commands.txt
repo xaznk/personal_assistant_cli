@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------
+AddressBook commands:
+
+show records - show all records for AddressBook
+add record - add the record (phone, address, email or birthday) to the AddressBook
+change record - change some record (phone, address, email or birthday)
+delete record - delete the whole record by its name
+search record - searches for matches for records
+show birthdays - searches for everyone who has a birthday during stated number of days, starting from today
+
+Or input in 1 line for AddressBook:
+<command> <name> <your information>
+1. you haven`t  write your information for command “delete record”;
+2. you haven't write a name for commands: “search record” and “search birthdays”.
+e.g.  >>> delete record Vita
+      >>> search birthdays 56
+----------------------------------------------------------------------------------
